@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Junior+Software+Engineer;Web+%26+Mobile+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Junior+Software+Engineer;Frontend+%26+Mobile+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,35 +19,49 @@ Sebagai Junior Software Engineer, saya memiliki minat besar dalam merancang dan 
 *   💡 **Interests:** Frontend Architecture, Mobile App Development, UI/UX Design, & Digital Forensics.
 *   🚀 **Currently Working On:** Membangun aplikasi inovatif dan portofolio interaktif menggunakan **Next.js**, **React**, dan **Flutter**.
 *   🌱 **Currently Learning:** Memperdalam *state management*, arsitektur *clean code*, dan animasi UI yang kompleks.
-*   📫 **How to reach me:** [Alamat Email Anda]
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Design**
+**Frontend, Mobile & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend & Design Badges" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,figma" alt="Frontend Badges" />
 </p>
 
-**Backend & Mobile**
+**Backend, Tools & Environment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,codeigniter,flutter" alt="Backend & Mobile Badges" />
-</p>
-
-**Environment & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,bash" alt="Tools Badges" />
+  <img src="https://skillicons.dev/icons?i=php,python,codeigniter,git,docker,vscode,bash" alt="Backend Badges" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Interactive GitHub Analytics & Trophies
 
 <div align="center">
-  <!-- Ganti YOUR_GITHUB_USERNAME dengan username GitHub asli Anda -->
+  <!-- Dynamic GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=transparent&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <!-- Standard Analytics -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" height="150" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 My Contribution Graph
+
+<!-- Animasi Ular (Snake Game) yang memakan kotak kontribusi GitHub Anda -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -57,9 +71,6 @@ Sebagai Junior Software Engineer, saya memiliki minat besar dalam merancang dan 
 <div align="center">
   <a href="[Link LinkedIn]">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="[Link Twitter]">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <a href="[Link Discord]">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
