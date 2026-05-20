@@ -6,21 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
+
     steps:
-      - name: Generate Pacman Animation
-        uses: lowlighter/metrics@latest
+      - name: Generate Pacman Graph
+        uses: platane/snk@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Baghost-oukey
-          template: classic
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          # Menghasilkan output berupa file SVG di branch pacman-output
-          output_action: commit
-          committer_branch: pacman-output
-          filename: pacman-contribution-graph.svg
+          github_user_name: Baghost-oukey
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-light
+            dist/pacman-contribution-graph-dark.svg?palette=ocean
+          
+      - name: Push to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
