@@ -39,10 +39,11 @@
 ### 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Baghost-oukey&theme=dracula&hide_border=false&border_radius=8" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baghost-oukey&show_icons=true&theme=dracula&count_private=true" height="160" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baghost-oukey&layout=compact&theme=dracula&langs_count=6" height="160" alt="top languages" />
 </div>
 
-###
+### 
 
 <div align="center">
   <picture>
